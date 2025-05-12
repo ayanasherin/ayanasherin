@@ -3,24 +3,25 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ayanasherin&show_icons=true&theme=gotham&title_color=A200FF&text_color=F8EBFF&icon_color=B22BFF" alt="stat"/>
 <h2>🚀 About Me</h2>
 <p>
-  <strong>Passionate Software Developer</strong> who loves turning complex problems into simple, elegant solutions.<br>
-  🔧 Specializing in <span style="color:#A200FF;"><strong>.NET</strong></span>, <span style="color:#A200FF;"><strong>React</strong></span>, <span style="color:#A200FF;"><strong>IoT Solutions</strong></span>, and <span style="color:#A200FF;"><strong>Industrial Automation</strong></span>.<br>
-  💡 Always exploring the intersection of <strong>AI</strong>, <strong>Data Visualization</strong>, and <strong>Smart Systems</strong>.<br>
-  ✅ Believer in <em>clean code</em>, <em>continuous learning</em>, and <em>tech that makes a difference</em>.
+  <strong>Passionate Software Developer</strong> working at the intersection of technology and aerospace innovation.<br>
+  ✈️ Specializing in <span style="color:#A200FF;"><strong>.NET</strong></span>, <span style="color:#A200FF;"><strong>React</strong></span>, and <span style="color:#A200FF;"><strong>Automation Systems</strong></span> for mission-critical applications.<br>
+  💡 Exploring the world of <strong>aerospace software</strong>, <strong>data visualization</strong>, and <strong>system performance monitoring</strong>.<br>
+  ✅ Committed to <em>precision</em>, <em>efficiency</em>, and <em>innovation</em> in every line of code.
 </p>
 
-<h2>👩‍💻 Tech Enthusiast | Problem Solver | Innovation Lover</h2>
+<h2>👩‍💻 Tech Enthusiast | Problem Solver | Aerospace Dreamer</h2>
 <ul>
-  <li>🔥 Transforming raw data into real-time insights & intelligent actions</li>
-  <li>🌐 Building connected systems that <em>talk</em>, <em>think</em>, and <em>respond</em></li>
-  <li>📊 Obsessed with <strong>visualization</strong> — because seeing is understanding</li>
-  <li>🌱 Lifelong learner, currently diving deeper into <span style="color:#B22BFF;"><strong>AI-driven analytics</strong></span></li>
+  <li>🔥 Turning complex aerospace challenges into scalable software solutions</li>
+  <li>🌐 Building systems that enhance <em>flight safety</em>, <em>performance</em>, and <em>reliability</em></li>
+  <li>📊 Obsessed with <strong>visualization</strong> — because clear insights lead to better decisions</li>
+  <li>🌱 Always learning, growing, and pushing boundaries in <span style="color:#B22BFF;"><strong>aerospace tech</strong></span></li>
 </ul>
 
-<h2>💫 Let’s Build the Future</h2>
+<h2>💫 Let’s Build the Future of Aerospace</h2>
 <ul>
-  <li><strong>Code. Connect. Visualize. Optimize.</strong></li>
-  <li>Bridging the gap between humans and machines with smart technology</li>
-  <li>Making data <em>not just visible</em>, but <em>valuable</em></li>
-  <li>🚀 Always ready to take tech challenges head-on!</li>
+  <li><strong>Code. Analyze. Optimize. Elevate.</strong></li>
+  <li>Bridging the gap between software and aerospace engineering</li>
+  <li>Making data <em>actionable</em> and systems <em>smarter</em></li>
+  <li>🚀 Ready to take on new challenges and soar higher!</li>
 </ul>
+
